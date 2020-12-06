@@ -1,2 +1,2 @@
-# SF1681
-Image compresser using SVD
+# SF1681 Linear Algebra, Advanced course
+Image compresser using SVD. 
